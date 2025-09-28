@@ -11,15 +11,17 @@ defaults:
 # some information about your slides (markdown enabled)
 title: Data Science in Motion
 info: |
-  ## Slidev Starter Template
-  Presentation slides for developers.
+  Slides to accompany time series analysis code at https://github.com/gregwdata/Cincinnati_ML_meetup_2025_09_22
 
-  Learn more at [Sli.dev](https://sli.dev)
 # apply unocss classes to the current slide
 # class: text-center
 # https://sli.dev/features/drawing
 drawings:
   persist: false
+
+#"social card" image
+ogImage: Slide_Preview.gif
+
 # slide transition: https://sli.dev/guide/animations.html#slide-transitions
 transition: slide-left
 # enable MDC Syntax: https://sli.dev/features/mdc
