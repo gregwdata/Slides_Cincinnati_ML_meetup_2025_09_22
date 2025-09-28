@@ -1,0 +1,265 @@
+
+<svg
+    id="svg1"
+    width="6in"
+    height="4in"
+    viewBox="0 0 152.4 101.6"
+    version="1.1"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <!-- Markers (same geometry as original) -->
+        <marker style="overflow:visible" id="marker3" refX="0" refY="0" orient="auto"
+                markerWidth="1" markerHeight="1" viewBox="0 0 1 1" preserveAspectRatio="xMidYMid">
+            <path transform="scale(0.5)" style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+                  d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"/>
+            </marker>
+            <marker style="overflow:visible" id="marker2" refX="0" refY="0" orient="auto"
+                    markerWidth="1" markerHeight="1" viewBox="0 0 1 1" preserveAspectRatio="xMidYMid">
+                <path transform="scale(0.5)" style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+                      d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"/>
+                </marker>
+                <marker style="overflow:visible" id="Dot" refX="0" refY="0" orient="auto"
+                        markerWidth="1" markerHeight="1" viewBox="0 0 1 1" preserveAspectRatio="xMidYMid">
+                    <path transform="scale(0.5)" style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+                          d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"/>
+                    </marker>
+                    <!-- Duplicates for layer2 per original -->
+                    <marker style="overflow:visible" id="marker2-9" refX="0" refY="0" orient="auto"
+                            markerWidth="1" markerHeight="1" viewBox="0 0 1 1" preserveAspectRatio="xMidYMid">
+                        <path transform="scale(0.5)" style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+                              d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"/>
+                        </marker>
+                        <marker style="overflow:visible" id="Dot-6" refX="0" refY="0" orient="auto"
+                                markerWidth="1" markerHeight="1" viewBox="0 0 1 1" preserveAspectRatio="xMidYMid">
+                            <path transform="scale(0.5)" style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+                                  d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"/>
+                            </marker>
+                            <marker style="overflow:visible" id="marker3-6" refX="0" refY="0" orient="auto"
+                                    markerWidth="1" markerHeight="1" viewBox="0 0 1 1" preserveAspectRatio="xMidYMid">
+                                <path transform="scale(0.5)" style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+                                      d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"/>
+                                </marker>
+                                <marker style="overflow:visible" id="marker2-6" refX="0" refY="0" orient="auto"
+                                        markerWidth="1" markerHeight="1" viewBox="0 0 1 1" preserveAspectRatio="xMidYMid">
+                                    <path transform="scale(0.5)" style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+                                          d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"/>
+                                    </marker>
+                                    <marker style="overflow:visible" id="Dot-8" refX="0" refY="0" orient="auto"
+                                            markerWidth="1" markerHeight="1" viewBox="0 0 1 1" preserveAspectRatio="xMidYMid">
+                                        <path transform="scale(0.5)" style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+                                              d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"/>
+                                        </marker>
+                                        <marker style="overflow:visible" id="marker3-3" refX="0" refY="0" orient="auto"
+                                                markerWidth="1" markerHeight="1" viewBox="0 0 1 1" preserveAspectRatio="xMidYMid">
+                                            <path transform="scale(0.5)" style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+                                                  d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"/>
+                                            </marker>
+                                        </defs>
+
+                                        <!-- DTW connector lines (unchanged geometry & styling) -->
+                                        <g id="layer2" style="display:inline">
+                                            <path style="fill:#fa620d;stroke:#76572f;stroke-width:0.383646;marker-start:url(#marker2);marker-mid:url(#Dot);marker-end:url(#marker3)"
+                                                  d="M 78.948251,26.671705 61.878359,70.413307" id="path5"/>
+                                            <path style="fill:#fa620d;stroke:#76572f;stroke-width:0.383646;marker-start:url(#marker2-6);marker-mid:url(#Dot-8);marker-end:url(#marker3-3)"
+                                                  d="M 71.082412,76.151612 87.512184,32.196641" id="path5-2"/>
+                                            <path style="fill:#fa620d;stroke:#76572f;stroke-width:0.383646;marker-start:url(#marker2);marker-mid:url(#Dot);marker-end:url(#marker3)"
+                                                  d="M 78.948251,26.671705 53.130039,68.066197" id="path6"/>
+                                            <path style="fill:#fa620d;stroke:#76572f;stroke-width:0.383646;marker-start:url(#marker2);marker-mid:url(#Dot);marker-end:url(#marker3)"
+                                                  d="M 70.413305,18.350132 44.381719,63.798724" id="path7"/>
+                                            <path style="fill:#fa620d;stroke:#76572f;stroke-width:0.383646;marker-start:url(#marker2-6);marker-mid:url(#Dot-8);marker-end:url(#marker3-3)"
+                                                  d="M 79.403985,75.724865 87.512184,32.196641" id="path8"/>
+                                            <path style="fill:#fa620d;stroke:#76572f;stroke-width:0.383646;marker-start:url(#marker2-6);marker-mid:url(#Dot-8);marker-end:url(#marker3-3)"
+                                                  d="M 87.512184,74.87137 V 32.196641" id="path9"/>
+                                            <path style="fill:#fa620d;stroke:#76572f;stroke-width:0.383646;marker-start:url(#marker2-6);marker-mid:url(#Dot-8);marker-end:url(#marker3-3)"
+                                                  d="M 96.260504,67.403292 96.04713,25.15531" id="path10"/>
+                                            <path style="fill:#fa620d;stroke:#76572f;stroke-width:0.383646;marker-start:url(#marker2-6);marker-mid:url(#Dot-8);marker-end:url(#marker3-3)"
+                                                  d="M 104.79545,64.842808 104.58208,22.594826" id="path11"/>
+                                            <path style="fill:#fa620d;stroke:#76572f;stroke-width:0.383646;marker-start:url(#marker2-6);marker-mid:url(#Dot-8);marker-end:url(#marker3-3)"
+                                                  d="M 113.54377,64.842808 113.3304,22.594826" id="path12"/>
+                                            <path style="fill:#fa620d;stroke:#76572f;stroke-width:0.383646;marker-start:url(#marker2-6);marker-mid:url(#Dot-8);marker-end:url(#marker3-3)"
+                                                  d="M 122.07872,71.030644 121.86535,28.782662" id="path13"/>
+                                            <path style="fill:#fa620d;stroke:#76572f;stroke-width:0.383646;marker-start:url(#marker2-6);marker-mid:url(#Dot-8);marker-end:url(#marker3-3)"
+                                                  d="M 130.40029,81.9127 130.18692,39.664718" id="path14"/>
+                                            <path style="fill:#fa620d;stroke:#76572f;stroke-width:0.383646;marker-start:url(#marker2-6);marker-mid:url(#Dot-8);marker-end:url(#marker3-3)"
+                                                  d="M 138.93524,84.473184 138.72187,42.225202" id="path15"/>
+                                            <path style="fill:#fa620d;stroke:#76572f;stroke-width:0.383646;marker-start:url(#marker2);marker-mid:url(#Dot);marker-end:url(#marker3)"
+                                                  d="M 62.305106,13.229164 36.27352,58.677756" id="path16"/>
+                                            <path style="fill:#fa620d;stroke:#76572f;stroke-width:0.383646;marker-start:url(#marker2);marker-mid:url(#Dot);marker-end:url(#marker3)"
+                                                  d="M 54.196907,11.095427 28.165321,56.544019" id="path18"/>
+                                            <path style="fill:#fa620d;stroke:#76572f;stroke-width:0.383646;marker-start:url(#marker2);marker-mid:url(#Dot);marker-end:url(#marker3)"
+                                                  d="M 45.235213,24.324594 18.990254,70.413306" id="path19"/>
+                                            <path style="fill:#fa620d;stroke:#76572f;stroke-width:0.383646;marker-start:url(#marker2);marker-mid:url(#Dot);marker-end:url(#marker3)"
+                                                  d="M 36.700267,36.486892 19.203627,70.413306" id="path20"/>
+                                            <path style="fill:#fa620d;stroke:#76572f;stroke-width:0.383646;marker-start:url(#marker2);marker-mid:url(#Dot);marker-end:url(#marker3)"
+                                                  d="M 28.165321,33.286287 19.630375,70.413306" id="path21"/>
+                                            <path style="fill:#fa620d;stroke:#76572f;stroke-width:0.383646;marker-start:url(#marker2);marker-mid:url(#Dot);marker-end:url(#marker3)"
+                                                  d="M 19.630375,35.633397 19.203627,70.62668" id="path22"/>
+                                            <path style="fill:#fa620d;stroke:#76572f;stroke-width:0.383646;marker-start:url(#marker2);marker-mid:url(#Dot);marker-end:url(#marker3)"
+                                                  d="M 10.668681,33.072913 10.455307,75.747648" id="path23"/>
+                                            </g>
+
+                                            <!-- Series A & B paths (A keeps markers; B markers removed so colored dots are visible) -->
+                                            <g id="layer1">
+                                                <path
+                                                    style="fill:none;stroke:#0c1ef7;stroke-width:0.841375;marker-start:url(#marker2);marker-mid:url(#Dot);marker-end:url(#marker3)"
+                                                    d="m 10.668683,33.072917 8.563396,1.92036 8.563396,-1.70699 8.563396,3.41398 8.563395,-12.138467 8.563396,-12.612875 8.563396,0.853493 8.563396,5.76109 8.563396,7.681449 8.563396,5.33434 8.563395,-6.827955 8.563399,-2.773857 8.56339,0.426749 8.5634,6.614583 8.56339,10.24193 8.5634,2.13374"
+                                                    id="path4"/>
+                                                <path
+                                                    style="fill:none;stroke:#0c1ef7;stroke-width:0.841375;marker-start:none;marker-mid:none;marker-end:none"
+                                                    d="m 10.663229,75.879726 8.563396,-5.334339 8.563395,-13.86929 8.563396,1.28024 8.563395,5.334343 8.563396,4.907591 8.563395,1.785929 8.563396,6.601639 8.563395,-0.531502 8.563396,-1.668231 8.563396,-6.827955 8.563395,-2.773857 8.5634,0.426749 8.56339,6.614583 8.5634,10.24193 8.56339,2.13374"
+                                                    id="path4-8"/>
+                                                <text x="10.668683" y="13.655914" style="font: 8.46667px 'Noto Sans'; fill:#fa620d;">A</text>
+                                                <text x="10.566263" y="60.130959" style="font: 8.46667px 'Noto Sans'; fill:#fa620d;">B</text>
+
+                                                <!-- groups for dots -->
+                                                <g id="b-points"></g>
+                                                <g id="a-overlays"></g>
+                                                <g id="animated-points"></g>
+                                            </g>
+
+                                            <!-- Behavior: color B points; animate along connectors; color A endpoints on arrival; LOOP -->
+                                            <script><![CDATA[
+                                                (function(){
+                                                const svg = document.currentScript.ownerSVGElement;
+                                                const ns = svg.namespaceURI;
+
+                                                // Vertex coordinates of B series (absolute, derived from your path)
+                                                const B = [
+                                                [10.663229,75.879726],
+                                                [19.226625,70.545387],
+                                                [27.790020,56.676097],
+                                                [36.353416,57.956337],
+                                                [44.916811,63.290680],
+                                                [53.480207,68.198271],
+                                                [62.043602,69.984200],
+                                                [70.606998,76.585839],
+                                                [79.170393,76.054337],
+                                                [87.733789,74.386106],
+                                                [96.297185,67.558151],
+                                                [104.860580,64.784294],
+                                                [113.423980,65.211043],
+                                                [121.987370,71.825626],
+                                                [130.550770,82.067556],
+                                                [139.114160,84.201296]
+                                                ];
+
+                                                // Palette for B points
+                                                const colors = [
+                                                "#e41a1c","#377eb8","#4daf4a","#984ea3","#ff7f00",
+                                                "#a65628","#f781bf","#999999","#66c2a5","#fc8d62",
+                                                "#8da0cb","#e78ac3","#a6d854","#ffd92f","#e5c494","#b3b3b3"
+                                                ];
+
+                                                // Timing (seconds)
+                                                const cycle = 8.0;     // full loop time
+                                                const delay = 3.0;     // wait before launch each cycle
+                                                const travel = 2.0;    // travel time
+                                                const arrive = delay + travel; // 5s
+
+                                                // Fractions of the cycle used in SMIL keyTimes
+                                                const k0 = 0.0;
+                                                const kDelayEnd = +(delay / cycle).toFixed(3);   // 0.375
+                                                const kArrive = +(arrive / cycle).toFixed(3);    // 0.625
+                                                const kEnd = 1.0;
+
+                                                // Draw static B points (colored)
+                                                const r = 1.6;
+                                                const bpGroup = svg.getElementById("b-points");
+                                                B.forEach((pt, i) => {
+                                                const c = document.createElementNS(ns, "circle");
+                                                c.setAttribute("cx", pt[0]); c.setAttribute("cy", pt[1]);
+                                                c.setAttribute("r", r); c.setAttribute("fill", colors[i % colors.length]);
+                                                c.setAttribute("stroke", "none");
+                                                bpGroup.appendChild(c);
+                                                });
+
+                                                // Nearest B vertex by Euclidean distance
+                                                function nearestBIndex(x,y){
+                                                let bestI=0, bestD=Infinity;
+                                                for(let i=0;i<B.length;i++){
+                                                    const dx=x-B[i][0], dy=y-B[i][1];
+                                                    const d=dx*dx+dy*dy; if(d<bestD){bestD=d;bestI=i;}
+                                                        }
+                                                        return bestI;
+                                                        }
+
+                                                        const connectors = svg.querySelectorAll("#layer2 path");
+                                                        const animGroup = svg.getElementById("animated-points");
+                                                        const aOverlayGroup = svg.getElementById("a-overlays");
+
+                                                        connectors.forEach((p) => {
+                                                        const d = p.getAttribute("d").trim();
+                                                        // Parse endpoints: supports "M x1,y1 x2,y2" or "M x1,y1 V y2"
+                                                        const m = d.match(/M\s*([\-\d.]+),([\-\d.]+)\s*([A-Z])?\s*([\-\d.]*)?,?([\-\d.]*)?/i);
+                                                        if (!m) return;
+                                                        let x1=parseFloat(m[1]), y1=parseFloat(m[2]);
+                                                        let x2, y2;
+                                                        if (m[3] && (m[3].toUpperCase()==="V")) {
+                                                        x2 = x1; y2 = parseFloat(m[4]);
+                                                        } else {
+                                                        const tail = d.replace(/^M\s*([\-\d.]+),([\-\d.]+)\s*/i, "");
+                                                        const nm = tail.match(/([\-\d.]+),([\-\d.]+)/);
+                                                        if (!nm) return; x2 = parseFloat(nm[1]); y2 = parseFloat(nm[2]);
+                                                        }
+
+                                                        // Decide which end is on B (lower series has larger y)
+                                                        const startIsB = (y1 > y2);
+                                                        const bx = startIsB ? x1 : x2;
+                                                        const by = startIsB ? y1 : y2;
+                                                        const ax = startIsB ? x2 : x1;
+                                                        const ay = startIsB ? y2 : y1;
+
+                                                        const bi = nearestBIndex(bx, by);
+                                                        const color = colors[bi % colors.length];
+
+                                                        // Moving dot that stays at B during delay, moves to A by arrive, holds till end, loops
+                                                        const dot = document.createElementNS(ns, "circle");
+                                                        dot.setAttribute("r", r);
+                                                        dot.setAttribute("fill", color);
+                                                        dot.setAttribute("stroke", "none");
+
+                                                        const anim = document.createElementNS(ns, "animateMotion");
+                                                        anim.setAttribute("begin", "0s");
+                                                        anim.setAttribute("dur", cycle + "s");
+                                                        anim.setAttribute("repeatCount", "indefinite");
+                                                        anim.setAttribute("fill", "freeze");
+                                                        anim.setAttribute("calcMode", "linear");
+                                                        // Stay at start from 0..kDelayEnd, move to end by kArrive, hold to 1
+                                                        // keyPoints follow the path fraction; for reverse we invert.
+                                                        if (startIsB) {
+                                                        anim.setAttribute("keyPoints", `0;0;1;1`);
+                                                        } else {
+                                                        anim.setAttribute("keyPoints", `1;1;0;0`);
+                                                        }
+                                                        anim.setAttribute("keyTimes", `${k0};${kDelayEnd};${kArrive};${kEnd}`);
+
+                                                        const mpath = document.createElementNS(ns, "mpath");
+                                                        mpath.setAttributeNS("http://www.w3.org/1999/xlink", "xlink:href", "#" + p.id);
+                                                        anim.appendChild(mpath);
+                                                        dot.appendChild(anim);
+                                                        animGroup.appendChild(dot);
+
+                                                        // Colored overlay at A endpoint: invisible during delay, appears at arrival, holds to end
+                                                        const aCircle = document.createElementNS(ns, "circle");
+                                                        aCircle.setAttribute("cx", ax); aCircle.setAttribute("cy", ay);
+                                                        aCircle.setAttribute("r", (r * 1.6));
+                                                        aCircle.setAttribute("fill", color);
+                                                        aCircle.setAttribute("fill-opacity", "0");
+
+                                                        const fade = document.createElementNS(ns, "animate");
+                                                        fade.setAttribute("attributeName", "fill-opacity");
+                                                        fade.setAttribute("values", `0;1;1`);
+                                                        fade.setAttribute("keyTimes", `${k0};${kArrive};${kEnd}`);
+                                                        fade.setAttribute("begin", "0s");
+                                                        fade.setAttribute("dur", cycle + "s");
+                                                        fade.setAttribute("repeatCount", "indefinite");
+                                                        fade.setAttribute("calcMode", "discrete");
+
+                                                        aCircle.appendChild(fade);
+                                                        aOverlayGroup.appendChild(aCircle);
+                                                        });
+                                                        })();
+                                                        ]]></script>
+                                                </svg>

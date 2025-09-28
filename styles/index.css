@@ -1,0 +1,19 @@
+.slidev-layout h1 {
+  background: linear-gradient(
+    60deg,
+    #4EC5D4 0%,
+    #b92ff0 10%,
+    #2B90B6 20%,
+    #43e97b 40%,
+    #f9ea8f 60%,
+    #146b8c 80%,
+    #f02fc2 100%
+  );
+  background-size: 100%;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
