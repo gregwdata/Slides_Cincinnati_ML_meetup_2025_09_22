@@ -817,7 +817,7 @@ align: l-lt-lt
 ---
 layout: iframe-right
 # the web page source
-url: "/DTW_sequences3.html"
+url: "DTW_sequences3.html"
 
 # a custom class name to the content
 ---
