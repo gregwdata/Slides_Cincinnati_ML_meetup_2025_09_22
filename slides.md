@@ -189,7 +189,7 @@ We'll use sensors on a cell phone to demonstrate some time series data analysis 
 
 ---
 layout: image-left
-image: ./images/Phone_in_mount_attached_to_a_spring.jpeg
+image: /Phone_in_mount_attached_to_a_spring.jpeg
 
 class: phyphoxslide
 ---
@@ -817,7 +817,7 @@ align: l-lt-lt
 ---
 layout: iframe-right
 # the web page source
-url: "./images/DTW_sequences3.html"
+url: "/DTW_sequences3.html"
 
 # a custom class name to the content
 ---
